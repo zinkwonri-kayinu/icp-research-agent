@@ -1,0 +1,8 @@
+customer,reviewer,title,industry,employees,stage,geography,business_model,tech_stack,source
+Ledgerline,Priya S.,VP Sales,B2B SaaS,180,Series A,US,B2B,HubSpot;Clay,case study
+BrightPath,Marcus L.,Head of Revenue Operations,B2B SaaS,320,Series B,US,B2B,Salesforce;Clay,case study
+Kestrel Labs,Aisha B.,Co-Founder & CEO,B2B SaaS,60,Seed,UK,B2B,HubSpot,G2 review
+Tailspin,Jon P.,Growth Lead,B2B SaaS,220,Series A,US,B2B,HubSpot;Apollo,G2 review
+Northwind,Dana O.,Director of Sales Operations,Fintech,450,Series B,US,B2B,Salesforce;Clay,testimonial
+Fabrikam,Lee K.,Head of Growth,Marketplace,140,Series A,Canada,B2B2C,HubSpot,logo + LinkedIn
+Contoso Data,Sam R.,RevOps Manager,B2B SaaS,95,Seed,US,B2B,HubSpot;Clay,G2 review
